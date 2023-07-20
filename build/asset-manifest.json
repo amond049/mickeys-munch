@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73d2ded0.css",
+    "main.js": "/static/js/main.146e4953.js",
+    "static/js/787.d2c062c2.chunk.js": "/static/js/787.d2c062c2.chunk.js",
+    "static/media/test.jpg": "/static/media/test.2913313790f76665db96.jpg",
+    "static/media/banquet_hall.jpg": "/static/media/banquet_hall.30f9dcb34e3715e8fe2f.jpg",
+    "static/media/kumail_nanjiani.jpg": "/static/media/kumail_nanjiani.c6c2dd7e1bcb03d99f13.jpg",
+    "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/Ubuntu-Bold.ttf": "/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
+    "static/media/anonymous.jpg": "/static/media/anonymous.f8718206667bdea2385b.jpg",
+    "static/media/bangladesh.jpg": "/static/media/bangladesh.6baea23953b07a7da17d.jpg",
+    "static/media/CroissantOne-Regular.ttf": "/static/media/CroissantOne-Regular.b6a7babc45d77f0cade9.ttf",
+    "static/media/google_maps_image.PNG": "/static/media/google_maps_image.d40dff215b635e828e31.PNG",
+    "static/media/gordon_ramsay.jpg": "/static/media/gordon_ramsay.d63fed9782088219f942.jpg",
+    "static/media/favicon.png": "/static/media/favicon.5cc4d0a3890b791c7333.png",
+    "index.html": "/index.html",
+    "main.73d2ded0.css.map": "/static/css/main.73d2ded0.css.map",
+    "main.146e4953.js.map": "/static/js/main.146e4953.js.map",
+    "787.d2c062c2.chunk.js.map": "/static/js/787.d2c062c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73d2ded0.css",
+    "static/js/main.146e4953.js"
+  ]
+}
